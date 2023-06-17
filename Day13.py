@@ -181,14 +181,14 @@ print(a==b)
 # 5. difference_upload() - Removes all elements of another set from this set
 # 6. discard() - Removes an element from the set if it is a member. 
 # 7. intersection() - Returns the intersection of two sets as a new set
-# intersection_update() - Updates the set with the intersection of itself and another
-# isdisjoint() - Returns True if two sets have a null intersection
-# issubset() - Returns True if another set contains this set
-# issuperset() - Returns True if this set contains another set
-# pop() - Removes and returns an arbitrary set element. Raises KeyError if the set is empty
-# remove() - Removes an element from the set. If the element is not a member, raises a KeyError
-# symmetric_difference() - Returns the symmetric difference of two sets as a new set
-# symmetric_difference_update() - Updates a set with the symmetric difference of itself and another
-# union() - Returns the union of sets in a new set
-# update() - Updates the set with the union of itself and others
+# 8. intersection_update() - Updates the set with the intersection of itself and another
+# 9. isdisjoint() - Returns True if two sets have a null intersection
+# 10. issubset() - Returns True if another set contains this set
+# 11. issuperset() - Returns True if this set contains another set
+# 12. pop() - Removes and returns an arbitrary set element. Raises KeyError if the set is empty
+# 13. remove() - Removes an element from the set. If the element is not a member, raises a KeyError
+# 14. symmetric_difference() - Returns the symmetric difference of two sets as a new set
+# 15. symmetric_difference_update() - Updates a set with the symmetric difference of itself and another
+# 16. union() - Returns the union of sets in a new set
+# 17. update() - Updates the set with the union of itself and others
 
