@@ -1,4 +1,4 @@
-# Pythin Sets
+# Python Sets
 
 # A set is a collection of unique data.
 # That is, element of a set cannot be duplicate. 
