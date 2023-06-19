@@ -2,7 +2,7 @@
 
 ## Topics per Day
 
-Day 1️⃣ - Python Variable 
+Day 1️⃣ - Python Variable \
 Day 2️⃣ - Python Data Types
 Day 3️⃣ - Python Type Casting
 Day 4️⃣ - Python Exceptions and Exception Handling
