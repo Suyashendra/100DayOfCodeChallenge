@@ -16,4 +16,4 @@ Day 1️⃣1️⃣ - Python List \
 Day 1️⃣2️⃣ - Python Tuple \
 Day 1️⃣3️⃣ - Python Sets \
 Day 1️⃣4️⃣ - Python Dictionary \
-Day 1️⃣5️⃣ - Python String and f-Strings \
+Day 1️⃣5️⃣ - Python String and f-Strings 
