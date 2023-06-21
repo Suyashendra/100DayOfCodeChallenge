@@ -90,14 +90,13 @@ p1.myFun()
 
 # Example: Use the words mysillyobject and abc instead of self:
 class Person:
-  def __init__(mysillyobject, name, age):
+  def __init__(mysillyobject, name):
     mysillyobject.name = name
-    mysillyobject.age = age
 
   def myfunc(abc):
     print("Hello my name is " + abc.name)
 
-p1 = Person("Suyash", 36)
+p1 = Person("Suyash")
 p1.myfunc() 
 # Output:
 # Hello my name is Suyash
